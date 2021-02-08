@@ -16,8 +16,9 @@ Software Alternatives
 | Search Engine     | Google                    | [DuckDuckGo](https://duckduckgo.com/)                      |
 | Maps              | Google Maps               | [OpenMapTiles](https://openmaptiles.org/) (self-hosted)    |
 | Social Network    | Facebook                  | ?                                                          |
+| Social Network    | Whatsapp                  | [Signal](https://signal.org/en/)                           |
 | Microblogging     | Twitter                   | ?                                                          |
-| Cloud Storage     | Dropbox, Google Drive     | ?                                                          |
+| Cloud Storage     | Dropbox, Google Drive     | [Proton Drive](https://protonmail.com/blog/proton-drive-early-access/), [Infomaniac](https://www.infomaniak.com/en/kdrive/) |
 
 
 Upcoming Alternatives
